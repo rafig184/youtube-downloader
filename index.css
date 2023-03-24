@@ -1,0 +1,52 @@
+.header {
+    background-color: rgb(0, 46, 58)
+}
+
+#h1 {
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 1%;
+    font-size: 350%;
+}
+
+#inputDiv {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+
+}
+
+#input {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: larger;
+    border: 0px;
+}
+
+#button-addon2 {
+    background-color: rgb(220, 53, 69);
+    color: white;
+    font-size: larger;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 10px solid white;
+    font-size: x-large;
+}
+
+.h3 {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    gap: 7%;
+    padding-bottom: 3%;
+}
+
+p {
+    font-size: larger;
+    color: lightslategray;
+}
